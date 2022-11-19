@@ -1,5 +1,19 @@
 # CTRL+V - NFT Studio & Launchpad
 ![CTRL+V Banner](https://github.com/ctrlvagency/CtrlvMinter/blob/main/ctrlvbanner.png "Banner")
 
+**CTRL+V** is full-service, no-code platform we’ve built to make it easier for creators to launch their own NFT collections. It eliminates the high barrier to entry for creators who want to enter the web3 space but don’t know how to code. We believe that no-code is the future for user adoption, tied with NFTs as a vehicle for mass on-chain adoption. CTRL+V provides the tools for creators to easily create NFTs on Aptos, which will in turn help drive mass-adoption for the chain.
 
-This module can hold many NFT collections with a resource account and allow other users to mint NFTs from the collections in exchange for a minting fee.
+
+# Key Features
+
+1. **NFT Illustrator Studio** - Freely draw or upload existing traits with assigned color mappings for unique 1/1 NFTs
+
+2. **Rarity Control** - Set custom weights for traits and generate a collection with accurate metadata
+
+3. **Launchpad** - Launch your collection with custom smart contract and minting page with wallet integration with only one click!
+
+# Aptos Tree Sprites
+
+Our genesis NFT collection, generated and launched through CTRL+V. It will launch at the end of November on Aptos. There will 10,000 Sprites minted on Aptos with instant reveal. Our holders will gain access to the token-gated beta of CTRL+V.
+
+[Pitch Deck Slides](https://drive.google.com/file/d/1sfeEK9J17PdoccD2pW0RNVKTL0ES5WyE/view?usp=share_link) | [Pitch Video](https://youtu.be/0UmCu1uTgvI)
