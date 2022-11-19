@@ -8,7 +8,9 @@ CTRL+V is full-service, no-code platform we’ve built for [AvesHack Building on
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=0UmCu1uTgvI
 " target="_blank"><img src="http://img.youtube.com/vi/0UmCu1uTgvI/0.jpg" 
 alt="CTRL+V Demo Video" width="240" height="180" border="10" /></a>
+
 [Hackathon Slide Deck](https://drive.google.com/file/d/1sfeEK9J17PdoccD2pW0RNVKTL0ES5WyE/view?usp=share_link)
+
 [Hackathon Video Demo](https://youtu.be/0UmCu1uTgvI)
 
 ## Key Features
