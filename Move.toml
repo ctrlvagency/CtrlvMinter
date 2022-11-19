@@ -1,0 +1,13 @@
+[package]
+name = "CtrlvMinter"
+version = "0.0.1"
+
+[dependencies]
+AptosFramework = { local = "../aptos-core/aptos-move/framework/aptos-framework" }
+AptosToken = { local = "../aptos-core/aptos-move/framework/aptos-token" }
+
+[addresses]
+std = "0x1"
+aptos_std = "0x1"
+aptos_framework = "0x1"
+
