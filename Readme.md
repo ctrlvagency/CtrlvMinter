@@ -27,10 +27,10 @@ Our genesis NFT collection, generated and launched through CTRL+V. It will launc
 
 ### Members:
 
-* Cavin - designer and product lead whose focus is on bringing accessibility to crypto
+* Cavin | Product & UI/UX Designer |
 
-* Charlie - backend developer who writes high performance computing code for state of the art hardware and supercomputers
+* Charlie | Back-end |
 
-* Scott - fullstack developer, computer programming wizard who has worked on many AAA games, just launched his latest product CastMate
+* Scott | Full-stack |
 
-* Rachel - CM, founder of digital marketing agency ARNGENCY, works towards onboarding more women and creators into web3
+* Rachel | Community Manager |
