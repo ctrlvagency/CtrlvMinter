@@ -9,7 +9,7 @@ CTRL+V is full-service, no-code platform we’ve built for [AvesHack Building on
 
 [Hackathon Video Demo](https://youtu.be/0UmCu1uTgvI)
 
-## Key Features
+### Key Features
 
 1. **NFT Illustrator Studio** - Freely draw or upload existing traits with assigned color mappings for unique 1/1 NFTs
 
@@ -17,8 +17,13 @@ CTRL+V is full-service, no-code platform we’ve built for [AvesHack Building on
 
 3. **Launchpad** - Launch your collection with custom smart contract and minting page with wallet integration with only one click!
 
-## [Aptos Tree Sprites](https://www.ctrlv.studio/collections/treesprites)
+### [Aptos Tree Sprites](https://www.ctrlv.studio/collections/treesprites)
 
 Our genesis NFT collection, generated and launched through CTRL+V. It will launch at the end of November on Aptos. There will 10,000 Sprites minted on Aptos with instant reveal. Our holders will gain access to the token-gated beta of CTRL+V.
 
+# Authors and Acknowledgements
 
+###name
+###name
+###name
+###name
