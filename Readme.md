@@ -5,10 +5,6 @@ CTRL+V is full-service, no-code platform we’ve built for [AvesHack Building on
 
 # Demo
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=0UmCu1uTgvI
-" target="_blank"><img src="http://img.youtube.com/vi/0UmCu1uTgvI/0.jpg" 
-alt="CTRL+V Demo Video" width="240" height="180" border="10" /></a>
-
 [Hackathon Slide Deck](https://drive.google.com/file/d/1sfeEK9J17PdoccD2pW0RNVKTL0ES5WyE/view?usp=share_link)
 
 [Hackathon Video Demo](https://youtu.be/0UmCu1uTgvI)
@@ -21,6 +17,8 @@ alt="CTRL+V Demo Video" width="240" height="180" border="10" /></a>
 
 3. **Launchpad** - Launch your collection with custom smart contract and minting page with wallet integration with only one click!
 
-# Aptos Tree Sprites
+## [Aptos Tree Sprites](https://www.ctrlv.studio/collections/treesprites)
 
 Our genesis NFT collection, generated and launched through CTRL+V. It will launch at the end of November on Aptos. There will 10,000 Sprites minted on Aptos with instant reveal. Our holders will gain access to the token-gated beta of CTRL+V.
+
+
