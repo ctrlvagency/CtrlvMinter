@@ -27,13 +27,20 @@ Our genesis NFT collection, generated and launched through CTRL+V. It will launc
 
 ### Members:
 
-* Cavin | Product & UI/UX Designer | [@nearop](https:www.twitter.com/nearop)
+* Cavin | Product & UI/UX Designer | [@nearop](https://www.twitter.com/nearop)
 
 * Charlie | Back-end |
 
 * Scott | Full-stack |
 
-* Rachel | Community Manager | [@xarechel](https:www.twitter.com/xarechel)
+* Rachel | Community Manager | [@xarechel](https://www.twitter.com/xarechel)
 
 # Links
 
+[CTRL+V Website](https://www.ctrlv.studio)
+
+[Aptos Tree Sprites Website](https:www.twitter.com/xarechel)
+
+[CTRL+V Twitter](https:www.twitter.com/ctrlvstudio)
+
+[Aptos Tree Sprites Twitter](https://www.ctrlv.studio/collections/treesprites)
