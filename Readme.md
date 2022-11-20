@@ -27,10 +27,13 @@ Our genesis NFT collection, generated and launched through CTRL+V. It will launc
 
 ### Members:
 
-* Cavin | Product & UI/UX Designer |
+* Cavin | Product & UI/UX Designer | [@nearop](https:www.twitter.com/nearop)
 
 * Charlie | Back-end |
 
 * Scott | Full-stack |
 
-* Rachel | Community Manager |
+* Rachel | Community Manager | [@xarechel](https:www.twitter.com/xarechel)
+
+# Links
+
