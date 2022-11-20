@@ -27,7 +27,7 @@ Our genesis NFT collection, generated and launched through CTRL+V. It will launc
 
 ### Members:
 
-⋅⋅* Cavin - designer and product lead whose focus is on bringing accessibility to crypto
+⋅⋅*Cavin - designer and product lead whose focus is on bringing accessibility to crypto
 
 ⋅⋅* Charlie - backend developer who writes high performance computing code for state of the art hardware and supercomputers
 
