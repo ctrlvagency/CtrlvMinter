@@ -43,4 +43,4 @@ Our genesis NFT collection, generated and launched through CTRL+V. It will launc
 
 [CTRL+V Twitter](https:www.twitter.com/ctrlvstudio)
 
-[Aptos Tree Sprites Twitter](https://www.ctrlv.studio/collections/treesprites)
+[Aptos Tree Sprites Twitter](https:www.twitter.com/aptosprites)
