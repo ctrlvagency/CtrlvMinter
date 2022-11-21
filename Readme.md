@@ -1,5 +1,5 @@
 # CTRL+V - NFT Studio & Launchpad
-![CTRL+V Banner](https://github.com/ctrlvagency/CtrlvMinter/blob/main/ctrlvbanner.png "Banner")
+![CTRL+V Banner](https://github.com/ctrlvagency/CtrlvMinter/blob/main/docs/img/ctrlvbanner.png "Banner")
 
 CTRL+V is full-service, no-code platform we’ve built for [AvesHack Building on Aptos](https://dorahacks.io/hackathon/41/) to make it easier for creators to launch their own NFT collections. It eliminates the high barrier to entry for creators who want to enter the web3 space but don’t know how to code. We believe that no-code is the future for user adoption, tied with NFTs as a vehicle for mass on-chain adoption. CTRL+V provides the tools for creators to easily create NFTs on Aptos, which will in turn help drive mass-adoption for the chain.
 
