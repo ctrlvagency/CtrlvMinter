@@ -15,7 +15,8 @@ module minter_module::ctrlv_minting {
 
     const ECOLLECTION_NAME_IN_USE: u64 = 1;
     const ENONE_LEFT: u64 = 2;
-
+    const ECOLLECTION_NOT_FOUND: u64 = 3;
+    const EINSUFFICIENT_PERMISSIONS: u64 = 4;
 
     struct TokenMintingEvent has drop, store {
         token_receiver_address: address,
@@ -192,5 +193,39 @@ module minter_module::ctrlv_minting {
         //Pay the admin of the minter
         coin::deposit<AptosCoin>(minter.admin, coins);
         coin::deposit<AptosCoin>(minter_store.fee_address, platform_cut);
+
+    }
+
+    
+    public entry fun change_collection_info(
+        creator: &signer, 
+        collection: String,
+        token_base_name: String, 
+        token_base_uri: String,
+        mint_price: u64,
+        supply: u64,
+    ) acquires CollectionTokenMinterStore
+    {
+        let minter_store = borrow_global_mut<CollectionTokenMinterStore>(@minter_module);
+        //let resource_signer = account::create_signer_with_capability(&minter_store.signer_cap);
+
+        assert!(table::contains(&minter_store.minters, collection), error::invalid_argument(ECOLLECTION_NOT_FOUND));
+
+        let minter = table::borrow_mut(
+            &mut minter_store.minters,
+            collection,
+        );
+
+        assert!(signer::address_of(creator) == minter.admin, error::permission_denied(EINSUFFICIENT_PERMISSIONS));
+
+        minter.supply = supply;
+        minter.mint_price = mint_price;
+        minter.token_base_name = token_base_name;
+        minter.token_base_uri = token_base_uri;
+
+        //These don't seem to be avaialable...
+        /*token::mutate_collection_description(&resource_signer, collection, description);
+        token::mutate_collection_uri(&resource_signer, collection, collection_uri);
+        token::mutate_collection_maximum(&resource_signer, collection, supply);*/
     }
 }
