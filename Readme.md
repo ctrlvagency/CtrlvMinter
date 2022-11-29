@@ -31,7 +31,7 @@ Our genesis NFT collection, generated and launched through CTRL+V. It will launc
 
 * Charlie | Back-end |
 
-* Scott | Full-stack |
+* Scott | Full-stack | [LordTocs](https://github.com/LordTocs)
 
 * Rachel | Community Manager | [@xarechel](https://www.twitter.com/xarechel)
 
